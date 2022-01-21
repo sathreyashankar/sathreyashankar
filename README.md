@@ -1,5 +1,6 @@
 ### Hi there 👋
-###Athreya here :)
+Athreya here :)
+I'm 2nd undergraduate majoring in Computer Science and Engineering at A J Institute Of Engineering Technology.
 
 <!--
 **sathreyashankar/sathreyashankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
