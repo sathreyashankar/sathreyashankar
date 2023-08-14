@@ -1,4 +1,5 @@
 <h2 align="center">Hi there 👋, I'm Athreya</h2>
+
 I'm a pre-final year undergraduate student majoring in Computer Science and Engineering at AJ Institute of Engineering Technology
 
 <!--
