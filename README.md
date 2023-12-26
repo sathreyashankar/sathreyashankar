@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋, I'm Athreya</h2>
 
-I'm a pre-final year undergraduate student majoring in Computer Science and Engineering at AJ Institute of Engineering Technology
+I'm a final year undergraduate student majoring in Computer Science and Engineering at AJ Institute of Engineering Technology
 
 <!--
 **sathreyashankar/sathreyashankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
