@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 ### Let's Connect
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email**: [athreya036@gmail.com](mailto:your.athreya036@gmail.com)  
+- **LinkedIn**: [sathreyashankar] (https://www.linkedin.com/in/sathreyashankar)
 
 ---
 
