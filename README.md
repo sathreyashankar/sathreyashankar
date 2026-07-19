@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ### Let's Connect
 
 - **Email**: [athreya036@gmail.com](mailto:your.athreya036@gmail.com)  
-- **LinkedIn**: [sathreyashankar] (https://www.linkedin.com/in/sathreyashankar)
+- **LinkedIn**: [sathreyashankar](https://www.linkedin.com/in/sathreyashankar)
 
 ---
 
